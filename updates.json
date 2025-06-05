@@ -1,0 +1,14 @@
+{
+  "name": "Force WebP",
+  "slug": "force-webp",
+  "version": "1.0",
+  "download_url": "https://github.com/Qrzysio/force-webp/archive/refs/tags/v1.0.zip",
+  "requires": "5.0",
+  "tested": "6.4",
+  "author": "Qrzysio",
+  "author_homepage": "https://github.com/Qrzysio",
+  "sections": {
+    "description": "",
+    "changelog": ""
+  }
+}
