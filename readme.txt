@@ -8,6 +8,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+Forces every uploaded JPG/PNG image to WebP format and removes the original file.
+
 == Description ==
 This plugin forces every uploaded image to be converted to WebP format, so you can forget about old formats like JPG and PNG. It also removes the original file and automatically sets the alt text based on the filename.
 
