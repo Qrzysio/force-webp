@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Force WebP
-Plugin URI: to tu dodam jak umieszczę w bibliotece
+Plugin URI: https://wordpress.org/plugins/force-webp/
 Description: this plugin forces every uploaded image to be converted to webp format, so you can forget about old formats like jpg and png
 Version: 1.0
 Author: Qrzysio
 Author URI: https://github.com/Qrzysio
-Update URI: https://github.com/Qrzysio/force-webp/updates.json
+Update URI: https://raw.githubusercontent.com/Qrzysio/force-webp/refs/heads/master/updates.json
 */
 
 
